@@ -1,0 +1,17 @@
+body
+{
+    padding: 10px;
+    margin: 40px;
+    font-size: 24px;
+    font-family: -apple-system;
+    background-image: url(https://wallpapercave.com/wp/wp2742875.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    color: #c6bccc;
+}
+
+nav
+{
+    padding: 0px;
+    color: #cab6d6;
+}
